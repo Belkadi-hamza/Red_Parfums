@@ -34,7 +34,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 
-const WEB3FORMS_ACCESS_KEY = "102deee4-0356-4bff-9b4c-05e86bdbf820";
+const WEB3FORMS_ACCESS_KEY = "4018256f-ab58-4e08-ace2-1f7def0b1522";
 const name = ref("");
 const email = ref("");
 const message = ref("");
